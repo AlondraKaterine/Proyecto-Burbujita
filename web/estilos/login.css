@@ -1,0 +1,27 @@
+.form-horizontal{
+background:#333;
+	font-size: 150%;
+	color:#fff;
+	height:300px;
+	padding-top: 50px;
+	padding-left:50px;
+	text-align: center;
+	margin-left: 0px;
+	margin-top:10px;
+	margin-right: 0px;
+}
+.form-control{
+margin-left: 10px;
+	margin-top:10px;
+	margin-right: 10px;
+	padding-right: 50px;
+}
+.cabecera{
+	background:#333;
+	font-size: 200%;
+	color:#fff;
+	height: 75px;
+	padding-top: 22px;
+	padding-left: 30px;
+	text-align: left;
+}

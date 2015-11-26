@@ -1,0 +1,13 @@
+.col-md-6 {
+text-align: center;
+}
+.pie{
+	background:#333;
+	color: #fff;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 0px;
+	height: 30px;
+	padding-top: 5px;
+	padding-left:50px;
+}

@@ -1,0 +1,25 @@
+.form-horizontal {
+	background:#333;
+	font-size: 100%;
+	color:#fff;
+	height:300px;
+	padding-top: 50px;
+	padding-left:20px;
+	text-align: center;
+	margin-left: 0px;
+	margin-top:0px;
+	margin-right:0px;
+}
+.checkbox{
+	text-align: left;
+}
+.pie{
+	background:#333;
+	color: #fff;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 0px;
+	height: 30px;
+	padding-top: 5px;
+	padding-left:50px;
+}

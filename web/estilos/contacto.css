@@ -1,0 +1,22 @@
+.form-inline{
+	background:#333;
+	font-size: 200%;
+	color:#fff;
+	height:150px;
+	padding-top: 50px;
+	padding-left:50px;
+	text-align: center;
+	margin-left: 0px;
+	margin-top:0px;
+	margin-right: 0px;
+}
+.pie{
+	background:#333;
+	color: #fff;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 0px;
+	height: 30px;
+	padding-top: 5px;
+	padding-left:50px;
+}
